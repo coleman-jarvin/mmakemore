@@ -1,7 +1,7 @@
 [project]
 name = "makemore"
 version = "0.1.0"
-description = "Add your description here"
+description = "makemore implementation"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []
